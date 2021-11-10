@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/K0deni/K0deni.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<script src="https://pxl.altcraft.denis-kolesnik.lan/ak_container.js?id=MXwx" ></script>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
