@@ -36,3 +36,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<button id="init_sub">Подписаться на уведомления</button> // Кнопка подписки
+ 
+<script>
+    document.getElementById('init_sub').addEventListener('click', function() { // По клику на кнопку..
+    try {
+        var akPush = new AKPush();
+        akPush.initSubscription() // ..показать форму подписки
+        }
+    catch (e) {
+        console.log(e); // Или записать ошибку в консоль браузера
+        }
+    });
+</script>
