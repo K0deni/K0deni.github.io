@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<script src="https://pxl.altcraft.denis-kolesnik.lan/ak_container.js?id=MXwx" ></script>
+<script src="https://pxl.altcraft.denis-kolesnik.lan/ak_container.js?id=AIzaSyBZCb9KuTyb9O8IkYr9EfXg8MyarIi4fbk" ></script>
 
 <button id="init_sub">Подписаться на уведомления</button> // Кнопка подписки
  
