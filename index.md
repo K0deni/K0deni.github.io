@@ -2,6 +2,7 @@
 
 <script src="https://pxl.denis-kolesnik.dev.altkraft.com/ak_container.js?id=MXwz" ></script>
 
+
 <button id="init_sub">Подписаться на уведомления</button>
  
 <script>
