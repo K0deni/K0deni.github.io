@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
-<script src="https://pxl.altcraft.denis-kolesnik.lan/ak_container.js?id=test-33bf0" ></script>
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-messaging.js"></script>
+
+<script type="text/javascript" src="/ak-push.js"></script>
+<link rel="manifest" href="/manifest.json"></link>
 
 <button id="init_sub">Подписаться на уведомления</button>
  
