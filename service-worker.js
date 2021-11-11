@@ -1,1 +1,1 @@
-importScripts('https://pxl.altcraft.denis-kolesnik.lan/service-worker.js?id=test-33bf0');
+importScripts('https://pxl.altcraft.denis-kolesnik.lan/ak_container.js?id=MXwx');
