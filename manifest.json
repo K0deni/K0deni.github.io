@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://k0deni.github.io",
+  "display": "standalone"
+}
