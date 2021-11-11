@@ -7,7 +7,7 @@
 <script>
     document.getElementById('init_sub').addEventListener('click', function() { // По клику на кнопку..
     try {
-        var akPush = new AKPush(AIzaSyA93JppIAkhHU5I0LS2SEnsHfghO3Y2f6w);
+        var akPush = new AKPush('push-project-25180');
         akPush.initSubscription() // ..показать форму подписки
         }
     catch (e) {
